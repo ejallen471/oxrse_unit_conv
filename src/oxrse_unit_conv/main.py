@@ -44,5 +44,6 @@ def convert(number: meta.classes.Number, unit: str, to: str):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     click_convert()
+    print('Hello world')
     # x = click_convert(3, 'h', 'minute')
     # print(x)
